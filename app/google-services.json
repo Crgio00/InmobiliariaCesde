@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "895785281823",
+    "project_id": "inmobiliaria-cesde",
+    "storage_bucket": "inmobiliaria-cesde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895785281823:android:16462ff90e53e69f9e682a",
+        "android_client_info": {
+          "package_name": "com.example.inmobiliaria_bello"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYgrsUIMCUJVjVwgnSfl2hFb1PnUkq0IE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895785281823:android:bf44ebfd0c36e01d9e682a",
+        "android_client_info": {
+          "package_name": "com.example.inmobiliariacesde"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYgrsUIMCUJVjVwgnSfl2hFb1PnUkq0IE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
